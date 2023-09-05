@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(132, 200, 242);
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+
+.content{
+    min-width: 50vw;
+    min-height: 30vh;
+    padding: 20px;
+    border: 1px solid rgb(59, 91, 100);
+    border-radius: 10px;
+    background-color: rgb(87, 160, 255);
+}
+
+.gradient{
+background: linear-gradient(90deg, #0d6efd 50%, #198754 50%);
+}
